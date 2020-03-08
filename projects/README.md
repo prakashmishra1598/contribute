@@ -576,7 +576,7 @@ Sandbox Projects
 *"Buildpacks provide a higher-level abstraction for building apps compared to
 Dockerfiles."* - [What Are Buildpacks? - buildpacks.io][buildpacks-overview]
 
-- **Project Repository:** https://github.com/buildpack
+- **Project Repository:** https://github.com/buildpacks
 - **Chat:** Slack: [slack.buildpacks.io][buildpacks-chat]
 - **License:**  [Apache 2.0][apache-license]
 
